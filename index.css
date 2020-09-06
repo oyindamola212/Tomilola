@@ -1,0 +1,26 @@
+h1{
+    color:red;
+}
+h2{
+    color:yellowgreen;
+}
+h3{
+    color:blue;
+}
+h4{
+    color:gray;
+}
+h5{
+    color:green;
+}
+h6{
+    color:purple;
+}
+p{
+    border:1px solid blue;
+    padding:10px;
+    margin:20px;
+    color: #ffff00;
+    font-family: courier;
+    font-size: 250%;
+}
